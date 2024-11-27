@@ -26,7 +26,6 @@ Batik Motifs:
 - mega mendung
 - parang
 - sidoluhur
-- truntum
 - tumpal
 
 Dataset Credits:
