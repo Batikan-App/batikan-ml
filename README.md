@@ -13,7 +13,7 @@ The **Batikan ML** project aims to analyze batik images and extract features usi
 
 ## Model (.h5)
 
-The Classification Model is available on [Google Drive](https://drive.google.com/file/d/1AKbp3UzuVDuL9WHdOGnd9VYUo3dbMNAQ/view?usp=drive_link).
+The Classification Model is available on [Google Drive](https://drive.google.com/file/d/1AOedVnbJ-4aF-hiR27ewS7ujr2165LtC/view?usp=sharing).
 
 ## Dataset
 
